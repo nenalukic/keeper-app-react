@@ -21,5 +21,5 @@ Some post-it notes:
 
 ## Acknowledgment
 
-I created this project while I studying [Udemy online bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+I created this project while studying [Udemy online bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
