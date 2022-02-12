@@ -19,3 +19,7 @@ Then play and create some post-it notes!
 Some post-it notes:
 ![image](images/keeper-app.png?raw=true)
 
+## Acknowledgment
+
+I created this project while I studying [Udemy online bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+
